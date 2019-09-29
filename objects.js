@@ -4,3 +4,6 @@ var meals = {
 
 var meals = new
 Object({ breakfast: 'oatmeal' })
+var playlist = {
+  Sophie: "Immaterial G"
+}
