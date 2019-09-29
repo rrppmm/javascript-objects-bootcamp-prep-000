@@ -6,6 +6,6 @@ var meals = new
 Object({ breakfast: 'oatmeal' })
 var playlist = {
   Sophie: "Immaterial",
-  Alex G: "Walk Away",
-  Madonna: "Hung Up",
+  Sandy: "Walk Away",
+  Madonna: "Hung Up"
 };
