@@ -1,7 +1,7 @@
 var playlist = {
-  Sophie: "Immaterial",
-  Sandy: "Walk Away",
-  Madonna: "Hung Up"
+  'Sophie': 'Immaterial',
+  'Sandy (Alex G': 'Walk Away',
+  'Madonna': 'Hung Up'
 };
 function updatePlaylist(playlist, ) {
   
