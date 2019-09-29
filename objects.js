@@ -3,6 +3,6 @@ var playlist = {
   '(Sandy) Alex G': 'Walk Away',
   'Madonna': 'Hung Up'
 };
-function updatePlaylist(playlist, artistName, songTitle) {playlist
+function updatePlaylist(playlist, artistName, songTitle) {playlist[artistName]
   
 }
