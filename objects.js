@@ -8,4 +8,4 @@ var playlist = {
   Sophie: "Immaterial",
   Alex G: "Walk Away",
   Madonna: "Hung Up",
-}
+};
